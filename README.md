@@ -56,7 +56,8 @@ Ayuda a estudiantes a elegir su carrera mediante un test y recomendaciones perso
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Valentina1891&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valentina1891&layout=compact&theme=tokyonight)   
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Valentina1891&layout=compact&theme=tokyonight)
+  
 
 ---
 
