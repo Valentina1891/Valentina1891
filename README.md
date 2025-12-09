@@ -2,8 +2,7 @@
 
 # 👩‍💻 Valentina Valdivia
 
-### Full Stack Developer | Analista de Datos | Gestión de Proyectos
-
+### Full Stack Developer | Analista de Datos 
 💡 Ingeniera Civil en Informática y Telecomunicaciones, apasionada por la tecnología, el análisis de datos y la gestión de proyectos TI.  
 Me destaco por la proactividad, adaptabilidad y trabajo en equipo, siempre buscando soluciones eficientes y creativas.
 
