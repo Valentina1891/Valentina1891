@@ -186,20 +186,6 @@ Aplicación web desarrollada para apoyar a estudiantes en la elección de una ca
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Valentina1891&show_icons=true&theme=tokyonight&cache_seconds=1800" height="170" alt="Estadísticas de GitHub de Valentina"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Valentina1891&layout=compact&theme=tokyonight&cache_seconds=1800" height="170" alt="Lenguajes más utilizados"/>
-
-<img src="https://streak-stats.demolab.com?user=Valentina1891&theme=tokyonight&hide_border=true" height="170" alt="Racha de contribuciones"/>
-
-</div>
-
----
-
 ## 📫 Contacto
 
 <div align="center">
